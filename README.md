@@ -32,7 +32,8 @@ Configured secure protocols and encrypted communications.
 
  Articles & Blog
 I write about cybersecurity concepts on my personal blog: https://www.cloudseamstress.cloud/
-Here are my other artickes:
+
+Here are my other articles:
 - [Understanding the NIST Framework for Beginners] https://docs.google.com/spreadsheets/d/1pk8q0L-vn5STqpLXYw0pzDOWD4Ww58dbFrFGUMYANDo/edit?usp=sharing
 - [IAM Basics for Cloud Security] https://docs.google.com/document/d/16C2vbtS_sbVOrF8hXfBhMeBPLMOxhD3t-peYuF-7B3A/edit?usp=sharing
 - [Cloud Service Models Explained] https://docs.google.com/document/d/10rmmlk2Fj21z-TE9Y08fFrckTNGgC0ZhQJGpr2f0Rb8/edit?usp=sharing
