@@ -24,11 +24,8 @@ Deployed and configured endpoint management solution for patching and monitoring
  3. Wireshark Network Analysis
 Analyzed malicious and benign network traffic patterns.
 
- 4. System Hardening Guide
-Created and implemented security baselines for Windows/Linux systems.
+ 4. Secure Communications and hardening
 
- 5. Secure Communications Setup
-Configured secure protocols and encrypted communications.
 
  Articles & Blog
 I write about cybersecurity concepts on my personal blog: https://www.cloudseamstress.cloud/
